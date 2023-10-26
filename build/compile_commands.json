@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/hr/Projects/C/sqlite/build",
-  "command": "/usr/bin/clang -g -std=gnu2x -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/sqlite.dir/main.c.o -c /Users/hr/Projects/C/sqlite/main.c",
-  "file": "/Users/hr/Projects/C/sqlite/main.c",
-  "output": "CMakeFiles/sqlite.dir/main.c.o"
-}
-]

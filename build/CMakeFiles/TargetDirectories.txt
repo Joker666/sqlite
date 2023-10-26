@@ -1,3 +1,0 @@
-/Users/hr/Projects/C/sqlite/build/CMakeFiles/sqlite.dir
-/Users/hr/Projects/C/sqlite/build/CMakeFiles/edit_cache.dir
-/Users/hr/Projects/C/sqlite/build/CMakeFiles/rebuild_cache.dir

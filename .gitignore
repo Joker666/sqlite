@@ -1,0 +1,7 @@
+.vscode
+.idea
+
+build
+main
+main.dSYM
+cmake-build-debug
